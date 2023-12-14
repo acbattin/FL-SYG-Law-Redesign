@@ -9,6 +9,7 @@ The Stand Your Ground (SYG) law was introduced as a senate bill in the Florida (
 <p align="center">
 <img src="https://github.com/acbattin/FL-SYG-Law-Redesign/blob/main/Reuters2014.jpg?raw=true" width="500" height="600"/>
 </p>
+The title of the graph and subtitle are off to a rocky start as the title suggests that the data being plotted is for FL deaths (i.e., murder and homicide) which the subtitle suggests that the data being plotted is firearm death data that has been filtered to only include murder and not justifiable homicide. Since the context of this plot references the SYG law, codified in Section 766.012 of the Florida Statutes that grants immunity to people that use deadly force against a potential threat, the number of firearm murders is a good metric to review to see the broader implications of the law, but to properly evaluate the impact on firearm killings the plot should provide information of the justifiable homicides. The context of this plot is important because it was published during the trial of Michael Dunn in 2014, while the trial was going on. However, the defendant’s lawyers did not cite the SYG law in their arguments at the time that this graphic was made, and the Florida Supreme Court rejected Dunn’s appeal based on the stand-your-ground law in 2021.
 
 # Methods
 * I pulled the Florida Uniform Crime Reports from the official Florida Department of Law Enforcement’s (FDLE) publicly accessible online database linked on their department’s website. These are annually updated reports. I downloaded the reports from 1990 to the most recently available report, 2020, and compiled the data into an Excel file and properly formatted the data types.
@@ -19,9 +20,9 @@ The Stand Your Ground (SYG) law was introduced as a senate bill in the Florida (
 <img src="https://github.com/acbattin/FL-SYG-Law-Redesign/blob/main/TotalMurdersScatter.png?raw=true" width="1000" height="600"/>
 </p>
 
-* This plot presents the total number of people murdered by firearm according to the data provided by the Florida Department of Law Enforcement’s Uniform        Crime reports.
+* This plot presents the total number of people murdered by firearm according to the data provided by the Florida Department of Law Enforcement’s Uniform Crime reports.
 
-* The plot shows a large increase in the number of murders committed by firearm in Florida immediately following the passage of the SYG law and the numbers      have never reached those of 2015, where there were 521 reported gun murders in Florida.
+* The plot shows a large increase in the number of murders committed by firearm in Florida immediately following the passage of the SYG law and the numbers have never reached those of 2015, where there were 521 reported gun murders in Florida.
 
 * The purpose of this plot is to show the immediate reaction to the passage of the SYG law in Florida which has been indicated with the first red reference line at 2005.
 
@@ -35,7 +36,7 @@ The Stand Your Ground (SYG) law was introduced as a senate bill in the Florida (
 
 * The plot uses color and a corresponding legend and caption with a font of the same color to create two groups using the years of the data and indicated these in the “SYG FL Passage” legend as “After SYG” and “Before SYG”. This is an example of perceptual grouping.
 
-* The plot shows that after the SYG law was passed in Florida by Jeb Bush in 2005, the number of people murdered using firearms in the “After SYG” shows an      increasing trend while the “Before SYG” shows a decreasing trend.
+* The plot shows that after the SYG law was passed in Florida by Jeb Bush in 2005, the number of people murdered using firearms in the “After SYG” shows an increasing trend while the “Before SYG” shows a decreasing trend.
 
 <p align="center">
 <img src="https://github.com/acbattin/FL-SYG-Law-Redesign/blob/main/SYGJustifiedLine.png?raw=true" width="1000" height="600"/>
