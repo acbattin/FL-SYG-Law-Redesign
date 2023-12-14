@@ -40,3 +40,12 @@ The Stand Your Ground (SYG) law was introduced as a senate bill in the Florida (
 
 * There is a simultaneous decrease in the number of justifiable homicides and increase in the number of murders. This is the reverse of what the SYG law is supposed to be doing to the firearm murder trends and means that people may be hiding behind this law and unjustly murdering people because of the freedom that it provides to the “defense”.
 
+<p align="center">
+<img src="https://github.com/acbattin/FL-SYG-Law-Redesign/blob/main/MurderRateScatter.png?raw=true" width="1000" height="600"/>
+</p>
+
+* I computed the population adjusted firearm murder rates for Florida using the state’s reported population from the CDC for the years 1990-2020 and express this as the rate of firearm murders in the state of Florida per 100,000 FL residents. This allows for the plot to show 15 years prior to the passage of the SYG law in Florida in addition to 15 years after, which just so happens to be the most recent data available.
+
+* This is the murder rate per 100,000 Florida residents. The year that the SYG law was implemented, 2005, we see that the population-adjusted murder rate in Florida was 4.9 per 100,000 Florida residents and in 2006 the murder-rate in Florida rose to a rate of 6.2 per 100,000 Florida residents. The population-adjusted murder rate for Florida has not reached a rate as low as that of 2005 since SYG’s passage.
+
+* Similarly, we see that the year that the first amendment was made to the SYG law in Florida, 2017, the murder rate was 5.2 per 100,000 Floridians (which is the second ratio in red to aid in readability and draw in the reader to the patterns of interest) and in 2018 the murder-rate in Florida rose to a rate of 5.3 per 100,000 Florida residents. The population-adjusted murder rate for Florida has not reached a rate as low as that of 2017 since the SYG amendment.
