@@ -21,5 +21,6 @@ The Stand Your Ground (SYG) law was introduced as a senate bill in the Florida (
 * This vertical bar plot displays the total number of people murdered by firearms in Florida from 1990 to 2020.
 * The plot uses color and a corresponding legend and caption with a font of the same color to create two groups using the years of my data and indicated these    in the “SYG FL Passage” legend as “After SYG” and “Before SYG”. This is an example of perceptual grouping.
 * The plot shows that after the SYG law was passed in Florida by Jeb Bush in 2005, the number of people murdered using firearms in the “After SYG” shows an      increasing trend while the “Before SYG” shows a decreasing trend.
-
+* Using Python, loaded the Titanic data set as a data frame and used the summary function to display specifics about the data set.
+* Using the Titanic dataset, display appropriate visualizations (graphics) for these data items: Survived, Pclass, Sex, and Age.
 
