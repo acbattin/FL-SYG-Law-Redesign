@@ -6,3 +6,8 @@ The Stand Your Ground (SYG) law was introduced as a senate bill in the Florida (
 
 # Methods
 * I pulled the Florida Uniform Crime Reports from the official Florida Department of Law Enforcement’s (FDLE) publicly accessible online database linked on their department’s website. These are annually updated reports. I downloaded the  reports from 1990 to the most recently available report, 2020, and compiled the data into an Excel file and properly formatted the data types.
+
+# Visualizations
+<p align="center">
+<img src="https://github.com/acbattin/FL-SYG-Law-Redesign/blob/main/TotalMurdersScatter.png?raw=true" width="1000" height="600"/>
+</p>
