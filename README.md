@@ -7,7 +7,7 @@ The Stand Your Ground (SYG) law was introduced as a senate bill in the Florida (
 
 # Original Plot from Reuters
 <p align="center">
-<img src="https://github.com/acbattin/FL-SYG-Law-Redesign/blob/main/Reuters2014.png?raw=true" width="1000" height="600"/>
+<img src="https://github.com/acbattin/FL-SYG-Law-Redesign/blob/main/Reuters2014.jpg?raw=true" width="1000" height="600"/>
 </p>
 
 # Methods
@@ -16,7 +16,7 @@ The Stand Your Ground (SYG) law was introduced as a senate bill in the Florida (
 
 # Visualizations
 <p align="center">
-<img src="https://github.com/acbattin/FL-SYG-Law-Redesign/blob/main/TotalMurdersScatter.jpg?raw=true" width="1000" height="600"/>
+<img src="https://github.com/acbattin/FL-SYG-Law-Redesign/blob/main/TotalMurdersScatter.png?raw=true" width="1000" height="600"/>
 </p>
 
 * This plot presents the total number of people murdered by firearm according to the data provided by the Florida Department of Law Enforcement’s Uniform        Crime reports.
