@@ -7,7 +7,7 @@ The Stand Your Ground (SYG) law was introduced as a senate bill in the Florida (
 
 # Original Plot from Reuters
 <p align="center">
-<img src="https://github.com/acbattin/FL-SYG-Law-Redesign/blob/main/Reuters2014.jpg?raw=true" width="600" height="600"/>
+<img src="https://github.com/acbattin/FL-SYG-Law-Redesign/blob/main/Reuters2014.jpg?raw=true" width="500" height="600"/>
 </p>
 
 # Methods
