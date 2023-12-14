@@ -13,6 +13,7 @@ The Stand Your Ground (SYG) law was introduced as a senate bill in the Florida (
 <p align="center">
 <img src="https://github.com/acbattin/FL-SYG-Law-Redesign/blob/main/TotalMurdersScatter.png?raw=true" width="1000" height="600"/>
 </p>
+
 * This plot presents the total number of people murdered by firearm according to the data provided by the Florida Department of Law Enforcement’s Uniform        Crime reports.
 
 * The plot shows a large increase in the number of murders committed by firearm in Florida immediately following the passage of the SYG law and the numbers      have never reached those of 2015, where there were 521 reported gun murders in Florida.
@@ -24,6 +25,7 @@ The Stand Your Ground (SYG) law was introduced as a senate bill in the Florida (
 <p align="center">
 <img src="https://github.com/acbattin/FL-SYG-Law-Redesign/blob/main/FLBar.png?raw=true" width="1000" height="600"/>
 </p>
+
 * This vertical bar plot displays the total number of people murdered by firearms in Florida from 1990 to 2020.
 
 * The plot uses color and a corresponding legend and caption with a font of the same color to create two groups using the years of the data and indicated these in the “SYG FL Passage” legend as “After SYG” and “Before SYG”. This is an example of perceptual grouping.
@@ -33,6 +35,7 @@ The Stand Your Ground (SYG) law was introduced as a senate bill in the Florida (
 <p align="center">
 <img src="https://github.com/acbattin/FL-SYG-Law-Redesign/blob/main/SYGJustifiedLine.png?raw=true" width="1000" height="600"/>
 </p>
+
 * Since Florida does not track their justifiable homicide data, I used the crime report firearm homicide data and the firearm murder data to illustrate the number of justifiable homicides because a homicide committed under the SYG law is categorized as such, a justifiable homicide.
 
 * There is a simultaneous decrease in the number of justifiable homicides and increase in the number of murders. This is the reverse of what the SYG law is supposed to be doing to the firearm murder trends and means that people may be hiding behind this law and unjustly murdering people because of the freedom that it provides to the “defense”.
