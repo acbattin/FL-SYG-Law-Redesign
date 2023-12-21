@@ -1,7 +1,7 @@
 # FL-SYG-Law-Redesign
 Redesign the Reuters "Gun deaths in Florida" plot in order to more accurately portray information regarding the efficacy of the 2005 passage of the Stand Your Ground law in Florida and the 2017 amendment. 
 * Code Author: Andie Battin
-* Last updated: 12/13/2023
+* Last updated: 12/20/2023
 # Background Context
 The Stand Your Ground (SYG) law was introduced as a senate bill in the Florida (FL) legislature in 2005 and was enacted that same year making Florida (FL) the first state with a SYG law. The SYG law was presented as a self-defense law that removes the duty to retreat and was aimed to shift the balance of power in favor of the victims. The legal repercussions of this law have played out on the national news with critics of this expansion on traditional common law principal of the castle doctrine and there have been few amendments made since the law’s passage in 2005.
 
